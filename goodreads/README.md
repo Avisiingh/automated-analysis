@@ -40,11 +40,6 @@ Using an outlier detection analysis, specific entries were flagged as potential 
 5. **User Engagement Strategies**: Utilize the dataset to develop strategies aimed at increasing user engagement, such as targeted promotions for lesser-known authors based on their high-quality ratings.
 
 In conclusion, this dataset presents a wealth of information about reader preferences and book characteristics. By leveraging these insights and addressing the identified data quality issues, stakeholders can enhance their understanding of the literary landscape and improve decision-making processes in publishing, marketing, and recommendation systems.
-
-## Key Insights
-- Insight 1: Description
-- Insight 2: Description
-
 ## Visualizations
 ![Boxplot](boxplot.png)
 ![Heatmap](correlation_heatmap.png)
